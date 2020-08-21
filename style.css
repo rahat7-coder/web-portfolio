@@ -16,7 +16,7 @@ p{
 }
 .half-width{
     width: 35%;
-    float: left; 
+    float: left;  
     margin: 5%;
     padding: 2%;
 }
@@ -45,7 +45,7 @@ section{
     background-image: url("images/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
-    padding-bottom: 1000px;
+    padding-bottom: 600px; 
 }
 .single-exprience{
     box-shadow: 10px 10px 40px gray;
