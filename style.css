@@ -15,14 +15,13 @@ p{
     color: orange;
 }
 .half-width{
-    width: 35%;
+    width: 40%;
     float: left;  
     margin-left: 5%;
     padding-left: 2%;
 }
 .half-width img{
     width: 100%;
-    padding-bottom: 130px;
 }
 .top-banner{
     background-image: url("images/top-banner.png");
